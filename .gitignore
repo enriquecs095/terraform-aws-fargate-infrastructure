@@ -1,0 +1,3 @@
+/.[Tt]erraform/
+.terraform.lock.hcl
+.idea/
