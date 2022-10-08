@@ -178,7 +178,7 @@ module "timeoff_ec2" {
 
 module "timeofffargate" {
   source      = "./modules/timeofffargate"
-  name        = "timeofffargate"
+  name        = "fargate"
   environment = var.environment
   providers = {
     aws = aws.main_region
