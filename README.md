@@ -1,6 +1,18 @@
 # Timeoff Management Infrastructures
+Web application for managing employee absences.
+This project was developed in Terraform 1.3 and is built based on three infrastructures, ECS, EC2 and FARGATE. Each module deploys each infrastructure with the desired arguments.
+
+First infrastructure
+![](resources/fargate.png)
+
+Second infrastructure
+![](resources/ecs.png)
+
+Third infrastructure
+![](resources/ec2.png)
 
 # Stand up the infrastructure
+
 
 ## 1. Create a bucket
 
