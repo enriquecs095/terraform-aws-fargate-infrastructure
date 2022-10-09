@@ -3,13 +3,13 @@ Web application for managing employee absences.
 This project was developed in Terraform 1.3 and is built based on three infrastructures, ECS, EC2 and FARGATE. Each module deploys each infrastructure with the desired arguments.
 
 First infrastructure
-![](fargate.png)
+![](resources/fargate.png)
 
 Second infrastructure
-![](ecs.png)
+![](resources/ecs.png)
 
 Third infrastructure
-![](ec2.png)
+![](resources/ec2.png)
 
 # Stand up the infrastructure
 
